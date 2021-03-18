@@ -1,0 +1,1 @@
+declare module "*.png" // Todo arquivi .png é um modulo, algo que eu posso importar
